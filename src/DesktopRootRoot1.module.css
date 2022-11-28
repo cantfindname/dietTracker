@@ -1,0 +1,136 @@
+.desktopRootRootRoot {
+  width: 897px;
+  height: 982px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 21px 325px 21px 218px;
+  background-color: #f8aaaf;
+  overflow: hidden;
+}
+.wisteriaRectangle {
+  width: 233px;
+  height: 62px;
+  left: 432px;
+  top: 548px;
+  position: absolute;
+  border-radius: 60px;
+  background-color: #a9a7eb;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.text1 {
+  width: 212px;
+  height: 57px;
+  left: 442px;
+  top: 568px;
+  position: absolute;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Roboto;
+  text-align: center;
+}
+.component {
+  width: 373px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: center;
+  margin: 0px 209px 120px 0px;
+}
+.flexRow {
+  position: relative;
+  gap: 29px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 128px 0px;
+}
+.paragraph {
+  width: 589px;
+  height: 215px;
+  align-self: flex-end;
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: 700;
+  font-family: Roboto;
+}
+.flexColumn {
+  width: 202px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 91px 0px 106px 77px;
+}
+.standardCollection {
+  width: 219px;
+  height: 221px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+.narmTrack1 {
+  width: 202px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.narmTrack {
+  width: 386px;
+  height: 53px;
+  margin: 0px -184px 0px 0px;
+  color: #ffffff;
+  font-size: 64px;
+  font-weight: 700;
+  font-family: Roboto;
+}
+.flexRow1 {
+  width: 661px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 236px 0px 0px;
+}
+.wisteriaFlexColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 20px 16px 19px 17px;
+  border-radius: 60px;
+  background-color: #a9a7eb;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.wisteriaFlexColumn1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 20px 17px 19px 16px;
+  border-radius: 60px;
+  background-color: #a9a7eb;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ellipse {
+  width: 450px;
+  height: 532px;
+  left: 0px;
+  top: 492px;
+  position: absolute;
+  mix-blend-mode: overlay;
+}
+.ellipse1 {
+  width: 430px;
+  height: 593px;
+  left: 1010px;
+  top: 0px;
+  position: absolute;
+  mix-blend-mode: overlay;
+}
