@@ -1,0 +1,135 @@
+.desktopRootRootRoot {
+    width: 1440px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8aaaf;
+    overflow: hidden;
+  }
+  .flexColumn {
+    width: 965px;
+    height: 1024px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+  }
+  .standardCollection {
+    width: 65px;
+    height: 64px;
+    left: 227px;
+    top: 0px;
+    position: absolute;
+  }
+  .narmTrack1 {
+    width: 24px;
+    height: 53px;
+    position: relative;
+    padding: 0px 0px 0px 178px;
+  }
+  .text4 {
+    align-self: flex-end;
+    margin: 0px 62px 65px 0px;
+    color: #ffffff;
+    font-size: 55px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .text5 {
+    width: 277px;
+    height: 25px;
+    margin: 0px 0px 4px 256px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+  }
+  .flexRow {
+    width: 965px;
+    gap: 13px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: stretch;
+    align-items: center;
+    margin: 0px 0px 35px 0px;
+  }
+  .wisteriaRectangle {
+    width: 403px;
+    height: 52px;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgba(134, 131, 232, 0.81);
+    background-color: rgba(169, 167, 235, 0.6);
+  }
+  .text6 {
+    width: 277px;
+    height: 25px;
+    align-self: flex-start;
+    margin: 3px 0px 0px 0px;
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+  }
+  .text7 {
+    width: 154px;
+    height: 25px;
+    margin: 0px 0px 1px 251px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+  }
+  .wisteriaRectangle1 {
+    width: 403px;
+    height: 52px;
+    margin: 0px 0px 42px 265px;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgba(134, 131, 232, 0.81);
+    background-color: rgba(169, 167, 235, 0.6);
+  }
+  .text8 {
+    width: 220px;
+    height: 26px;
+    margin: 0px 0px 4px 234px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+  }
+  .wisteriaRectangle2 {
+    width: 403px;
+    height: 52px;
+    margin: 0px 0px 0.04px 265px;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgba(134, 131, 232, 0.81);
+    background-color: #c9a8d3;
+  }
+  .ellipse {
+    width: 399px;
+    height: 442px;
+    mix-blend-mode: overlay;
+  }
+  .ellipse1 {
+    width: 365px;
+    height: 590px;
+    position: relative;
+    align-self: flex-start;
+    mix-blend-mode: overlay;
+  }
+  

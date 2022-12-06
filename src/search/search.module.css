@@ -1,0 +1,164 @@
+.desktopRootRootRoot {
+    width: 1209px;
+    height: 1015px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 9px 231px 0px 0px;
+    background-color: #f8aaaf;
+    overflow: hidden;
+  }
+  .flexRow {
+    width: 982px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 0px 0px 227px;
+  }
+  .flexColumn {
+    width: 202px;
+    height: 74px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0px 0px 0px 29px;
+  }
+  .standardCollection {
+    width: 65px;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+  }
+  .narmTrack1 {
+    width: 24px;
+    height: 53px;
+    position: relative;
+    padding: 0px 0px 0px 178px;
+  }
+  .component {
+    width: 373px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    align-items: center;
+    margin: 22px 0px 0px 0px;
+  }
+  .flexColumn1 {
+    width: 1150px;
+    position: relative;
+    gap: 41px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px 59px 0px 0px;
+  }
+  .flexColumn2 {
+    width: 860px;
+    height: 212px;
+    position: relative;
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-self: stretch;
+    align-items: flex-start;
+    padding: 9px 0px 9px 290px;
+  }
+  .text4 {
+    width: 724px;
+    height: 230px;
+    left: 358px;
+    top: 0px;
+    position: absolute;
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+  }
+  .flexColumn3 {
+    width: 166px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: stretch;
+    align-items: center;
+    padding: 0px 0px 0px 694px;
+  }
+  .wisteriaText {
+    width: 194px;
+    height: 59px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 642px 0px 18px;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Roboto;
+    text-align: center;
+    white-space: nowrap;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgba(134, 131, 232, 0.81);
+    background-color: rgba(169, 167, 235, 0.6);
+  }
+  .wisteriaText1 {
+    width: 94px;
+    height: 59px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: stretch;
+    padding: 0px 33px;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Roboto;
+    text-align: center;
+    white-space: nowrap;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgba(134, 131, 232, 0.81);
+    background-color: rgba(169, 167, 235, 0.6);
+  }
+  .text5 {
+    width: 331px;
+    height: 20px;
+    position: relative;
+    margin: 0px 0px 0px 264px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-decoration: underline;
+    text-align: center;
+  }
+  .ellipse {
+    width: 399px;
+    height: 442px;
+    mix-blend-mode: overlay;
+  }
+  .ellipse1 {
+    width: 365px;
+    height: 590px;
+    left: 1075px;
+    top: 0px;
+    position: absolute;
+    mix-blend-mode: overlay;
+  }
+  
