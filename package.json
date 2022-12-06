@@ -6,12 +6,20 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.2.3",
     "react": "^18.2.0",
+    "axios": "0.19.2",
+    "react-bootstrap": "^2.6.0",
     "react-dom": "^18.2.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4",
     "webfonts-loader": "^8.0.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,6 +37,7 @@
     "production": [
       ">0.2%",
       "not dead",
+      "not ie <= 11",
       "not op_mini all"
     ],
     "development": [

@@ -1,7 +1,17 @@
-import { DesktopRootRoot1 } from "./DesktopRootRoot1";
 
-export default function App() {
-  document.body.style.backgroundColor = "#f5f5f5";
+import React from 'react';
+import './App.css';
+import Navigation from './components/Navbar';
+import Routes from './Routes';
+
+function App() {
+  document.body.style.backgroundColor = "#767676";
   document.body.style.margin = "0";
-  return <DesktopRootRoot1 />;
+  return (
+    <div className="App">
+      <Navigation />
+      <Routes />
+    </div>
+  );
 }
+export default App;

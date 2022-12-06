@@ -1,0 +1,241 @@
+.newRootRootRootRoot {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  .desktop {
+    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8aaaf;
+    overflow: hidden;
+  }
+  .flexColumn {
+    height: 1015px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 9px 0px 0px 0px;
+  }
+  .flexColumn1 {
+    width: 202px;
+    height: 74px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0px 188px 0px 238px;
+  }
+  .standardCollection {
+    width: 65px;
+    height: 64px;
+    left: 209px;
+    top: 0px;
+    position: absolute;
+  }
+  .narmTrack1 {
+    width: 24px;
+    height: 53px;
+    position: relative;
+    padding: 0px 0px 0px 178px;
+  }
+  .flexColumn2 {
+    gap: 38px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .flexColumn3 {
+    width: 419px;
+    height: 287px;
+    position: relative;
+    gap: 55px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 0px 0px 0px 209px;
+  }
+  .text1 {
+    width: 618px;
+    height: 246px;
+    left: -1px;
+    top: 0px;
+    position: absolute;
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+  }
+  .text2 {
+    width: 373px;
+    height: 34px;
+    position: relative;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+    white-space: pre-wrap;
+  }
+  .text3 {
+    display: contents;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-decoration: underline;
+  }
+  .flexColumn4 {
+    width: 409px;
+    position: relative;
+    gap: 9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: stretch;
+    align-items: flex-start;
+    padding: 0px 0px 0px 10px;
+  }
+  .text4 {
+    width: 52px;
+    height: 25px;
+    margin: 0px 0px 0px 2px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+  }
+  .wisteriaRectangle {
+    width: 403px;
+    height: 52px;
+    align-self: stretch;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgba(134, 131, 232, 0.81);
+    background-color: rgba(169, 167, 235, 0.6);
+  }
+  .flexColumn5 {
+    gap: 7.04px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .flexRow {
+    width: 404px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 3px 0px 221px;
+  }
+  .text5 {
+    width: 93px;
+    height: 26px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+  }
+  .text6 {
+    width: 128px;
+    height: 20px;
+    align-self: flex-end;
+    margin: 0px 0px 2px 0px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-decoration: underline;
+    text-align: center;
+  }
+  .flexColumn6 {
+    width: 409px;
+    height: 440px;
+    position: relative;
+    gap: 27px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0.96px 0px 0.96px 219px;
+  }
+  .wisteriaRectangle1 {
+    width: 403px;
+    height: 52px;
+    position: relative;
+    align-self: stretch;
+    border-width: 3px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgba(134, 131, 232, 0.81);
+    background-color: #c9a8d3;
+  }
+  .wisteriaFlexColumn {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px 0px 0px 106px;
+    padding: 9px 58px 8px 60px;
+    border-radius: 60px;
+    background-color: #a9a7eb;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .text7 {
+    width: 78px;
+    height: 32px;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Roboto;
+    text-align: center;
+  }
+  .ellipse {
+    width: 399px;
+    height: 442px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    mix-blend-mode: overlay;
+  }
+  .flexColumn7 {
+    width: 766px;
+    height: 1024px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0px 38px 0px 0px;
+  }
+  .component {
+    width: 373px;
+    left: 200px;
+    top: 31px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .ellipse1 {
+    width: 365px;
+    height: 590px;
+    left: 439px;
+    top: 0px;
+    position: absolute;
+    mix-blend-mode: overlay;
+  }
+  .image1 {
+    width: 766px;
+    height: 807px;
+    position: relative;
+  }
+  

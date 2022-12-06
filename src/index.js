@@ -1,5 +1,9 @@
-import { StrictMode } from "react";
+import React  from "react";
 import ReactDOM from "react-dom";
+
+import { BrowserRouter as Router } from 'react-router-dom';
+import './index.css';
+import 'bootstrap/dist/css/bootstrap.css';
 //import WebFont from "webfontloader";
 import App from "./App";
 
@@ -9,10 +13,11 @@ import App from "./App";
  // },
 //});
 
+
 const rootElement = document.getElementById("root");
 ReactDOM.render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
+  <Router> 
+  <App />
+</Router>,
   rootElement
 );
