@@ -33,12 +33,7 @@ export const DesktopRootRoot1 = ({}) => {
         </FlexColumn>
       </FlexRow>
       <FlexRow1>
-        <WisteriaFlexColumn>
-          <Text5>SEARCH FOODS</Text5>
-        </WisteriaFlexColumn>
-        <WisteriaFlexColumn1>
-          <Text5>DAILY CALORIES</Text5>
-        </WisteriaFlexColumn1>
+       
       </FlexRow1>
     
     </DesktopRootRootRoot>

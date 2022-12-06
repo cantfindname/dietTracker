@@ -33,9 +33,7 @@ export const NewRootRootRoot1 = ({}) => {
                 <WisteriaFlexColumn>
                   <Text7>Sign in</Text7>
                 </WisteriaFlexColumn>
-                <Ellipse
-                  src={`https://file.rendit.io/n/v7QKhEFrAUUC724ldmHR.svg`}
-                />
+                
               </FlexColumn6>
             </FlexColumn5>
           </FlexColumn2>
@@ -221,8 +219,8 @@ const Text5 = styled.div`
 const Text6 = styled.div`
   width: 128px;
   height: 20px;
-  align-self: flex-end;
-  margin: 0px 0px 2px 0px;
+  //align-self: flex-end;
+ // margin: 0px 0px 2px 0px;
   color: #ffffff;
   font-size: 15px;
   font-weight: 700;
@@ -239,7 +237,7 @@ const FlexColumn6 = styled.div`
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  padding: 0.96px 0px 0.96px 219px;
+  padding: 15px 7px 2px 219px;
 `;
 const WisteriaRectangle1 = styled.div`
   width: 403px;
@@ -266,7 +264,7 @@ const WisteriaFlexColumn = styled.div`
 const Text7 = styled.div`
   width: 78px;
   height: 32px;
-  color: #ffffff;
+  color: #000000;
   font-size: 24px;
   font-weight: 700;
   font-family: Roboto;
@@ -299,14 +297,7 @@ const Component = styled.div`
   justify-content: space-between;
   align-items: center;
 `;
-const Ellipse1 = styled.img`
-  width: 365px;
-  height: 590px;
-  left: 439px;
-  top: 0px;
-  position: absolute;
-  mix-blend-mode: overlay;
-`;
+
 const Image1 = styled.img`
   width: 766px;
   height: 807px;

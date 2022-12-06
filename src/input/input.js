@@ -15,7 +15,7 @@ export const input= ({}) => {
             </FlexColumn2>
             <Component />
           </FlexRow>
-          <Ellipse1 src={`https://file.rendit.io/n/33J8wV48OQpkhinD19Gr.svg`} />
+         
           <Text4>Input My Own Meal</Text4>
           <Text5>Name Of Meal Or Food Item</Text5>
           <WisteriaRectangle />
@@ -36,7 +36,7 @@ export const input= ({}) => {
         <Text9>Carbohydrates (g)</Text9>
         <WisteriaRectangle3 />
       </FlexColumn>
-      <Ellipse src={`https://file.rendit.io/n/UiPlQzSsEemlnXc3trwt.svg`} />
+
       <FlexColumn5>
         <Text7>Protein (g)</Text7>
         <WisteriaRectangle4 />
@@ -116,18 +116,18 @@ const FlexRow = styled.div`
 `;
 const FlexColumn2 = styled.div`
   width: 202px;
-  height: 74px;
+  height: 79px;
   position: relative;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  padding: 0px 0px 0px 29px;
+  padding: 8px 0px 33px 29px;
 `;
 const StandardCollection = styled.img`
   width: 65px;
-  height: 64px;
+  height: 88px;
   left: 0px;
-  top: 0px;
+  top: 9px;
   position: absolute;
 `;
 const NARMTrack1 = styled.div`
@@ -238,19 +238,19 @@ const FlexColumn4 = styled.div`
   align-items: flex-start;
 `;
 const WisteriaFlexColumn = styled.div`
-  height: 48px;
+  height: 40px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding: 17px 30px 17px 29px;
-  border-radius: 60px;
+  padding: 17px 28px 48px 29px;
+  border-radius: 40px;
   background-color: #FFFFFF;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 16px 4px 9px 0px rgba(0, 1, 8, 0.25);
 `;
 const Text8 = styled.div`
   width: 201px;
-  height: 32px;
-  color: #ffffff;
+  height: 30px;
+  color: #000000;
   font-size: 40px;
   font-weight: 700;
   font-family: Roboto;
@@ -269,7 +269,7 @@ const Text9 = styled.div`
 const WisteriaRectangle3 = styled.div`
   width: 403px;
   height: 52px;
-  margin: 0px 0px 0px 77px;
+  margin: 0px 0px 0px 70px;
   border-width: 3px;
   border-radius: 10px;
   border-style: solid;
@@ -297,7 +297,7 @@ const FlexColumn5 = styled.div`
 const WisteriaRectangle4 = styled.div`
   width: 403px;
   height: 52px;
-  margin: 0px 0px 0px 77px;
+  margin: 0px 40px 40px 52px;
   border-width: 3px;
   border-radius: 10px;
   border-style: solid;

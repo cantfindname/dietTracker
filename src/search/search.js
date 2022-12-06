@@ -70,7 +70,7 @@ const StandardCollection = styled.img`
   width: 65px;
   height: 64px;
   left: 0px;
-  top: 0px;
+  top: 9px;
   position: absolute;
 `;
 const NARMTrack1 = styled.div`
@@ -155,7 +155,7 @@ const WisteriaText = styled.div`
   background-color: rgba(169, 167, 235, 0.6);
 `;
 const WisteriaText1 = styled.div`
-  width: 94px;
+  width: 160px;
   height: 59px;
   position: relative;
   display: flex;

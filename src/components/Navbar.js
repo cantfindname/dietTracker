@@ -14,9 +14,9 @@ const Navigation = (props) => {
                     <Nav.Link href="/home">Home</Nav.Link>
                     <Nav.Link href="/signin">Sign In</Nav.Link>
                     <Nav.Link href="/search">Search Food</Nav.Link>
-                  
+                   
                     <Nav.Link href="/input">INPUT FOOD</Nav.Link>
-                    <Nav.Link href="/bmi2">BMI2</Nav.Link>
+                    <Nav.Link href="/bmi2">BMI Calculator</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>
